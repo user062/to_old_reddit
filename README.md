@@ -14,4 +14,4 @@ to use it:
 (this has only been tested on linux so far but should work on any platform)
 
 # DEMO
-![]https://github.com/user062/to_old_reddit/blob/master/old_reddit_extention_demo.gif
+![](https://github.com/user062/to_old_reddit/blob/master/old_reddit_extention_demo.gif)
