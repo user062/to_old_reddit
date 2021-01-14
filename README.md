@@ -1,6 +1,8 @@
 # to_old_reddit
 chrome extension which redirects reddit.com to old.reddit.com
 
+this was developed for personal use since i have an old low resources machine and the new reddit ui is too slow for me.
+
 to use it:
 
 1-clone the repo
