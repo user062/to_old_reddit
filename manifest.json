@@ -1,0 +1,11 @@
+{
+    "name": "redirect_to_old_reddit",
+    "version": "1.0",
+    "description": "automatically redirects from new reddit to old.reddit",
+    "permissions": ["webRequest", "webRequestBlocking", "https://www.reddit.com/*"],
+    "background": {
+        "scripts": ["redirect.js"],
+        "persistent": true
+    },
+    "manifest_version": 2
+}
